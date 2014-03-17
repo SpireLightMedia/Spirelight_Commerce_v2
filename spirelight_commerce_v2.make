@@ -305,6 +305,9 @@ projects[strongarm][version] = "2.0"
 projects[tabtamer][subdir] = "contrib"
 projects[tabtamer][version] = "1.1"
 
+projects[taxonomy_menu][subdir] = "contrib"
+projects[taxonomy_menu][version] = "1.4"
+
 projects[title][subdir] = "contrib"
 projects[title][version] = "1.0-alpha7"
 
