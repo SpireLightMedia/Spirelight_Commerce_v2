@@ -187,6 +187,7 @@ projects[google_analytics][version] = "1.4"
 
 projects[htmlmail][subdir] = "contrib"
 projects[htmlmail][version] = "2.65"
+projects[htmlmail][patch][] = "https://drupal.org/files/1692966-htmlmail-mailsystem-html-to-text.patch"
 
 projects[image_captcha_refresh][subdir] = "contrib"
 projects[image_captcha_refresh][version] = "1.5"
