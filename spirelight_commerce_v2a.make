@@ -264,6 +264,7 @@ projects[redirect][version] = "1.0-rc1"
 
 projects[rules][subdir] = "contrib"
 projects[rules][version] = "2.8"
+projects[commerce_features][patch][] = "https://www.drupal.org/files/issues/rules-invocation-2324587-35_0.patch"
 
 projects[rules_conditional][subdir] = "contrib"
 projects[rules_conditional][version] = "1.0-beta2"
